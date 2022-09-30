@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bgrakoQiVLCeLz7vJQX4P5Tfj8FOMZGxreoyvafX23L43HC8QAxKhIRcC5s71zdYf4GZKguI6aaPScHEmbV3pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMIN\\source\\repos\\CurrentValute\\CurrentValute\\CurrentValute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMIN\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
