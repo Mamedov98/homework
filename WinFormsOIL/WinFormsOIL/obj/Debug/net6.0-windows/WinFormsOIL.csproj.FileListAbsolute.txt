@@ -1,0 +1,17 @@
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\bin\Debug\net6.0-windows\WinFormsOIL.exe
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\bin\Debug\net6.0-windows\WinFormsOIL.deps.json
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\bin\Debug\net6.0-windows\WinFormsOIL.runtimeconfig.json
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\bin\Debug\net6.0-windows\WinFormsOIL.dll
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\bin\Debug\net6.0-windows\WinFormsOIL.pdb
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\WinFormsOIL.csproj.AssemblyReference.cache
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\WinFormsOIL.Form1.resources
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\WinFormsOIL.csproj.GenerateResource.cache
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\WinFormsOIL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\WinFormsOIL.AssemblyInfoInputs.cache
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\WinFormsOIL.AssemblyInfo.cs
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\WinFormsOIL.csproj.CoreCompileInputs.cache
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\WinFormsOIL.dll
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\refint\WinFormsOIL.dll
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\WinFormsOIL.pdb
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\WinFormsOIL.genruntimeconfig.cache
+D:\Programming\repos\WinFormsOIL\WinFormsOIL\obj\Debug\net6.0-windows\ref\WinFormsOIL.dll
