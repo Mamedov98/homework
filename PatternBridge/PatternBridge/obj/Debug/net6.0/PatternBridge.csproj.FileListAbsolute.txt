@@ -1,0 +1,15 @@
+D:\Programming\repos\PatternBridge\PatternBridge\obj\Debug\net6.0\PatternBridge.csproj.AssemblyReference.cache
+D:\Programming\repos\PatternBridge\PatternBridge\obj\Debug\net6.0\PatternBridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\repos\PatternBridge\PatternBridge\obj\Debug\net6.0\PatternBridge.AssemblyInfoInputs.cache
+D:\Programming\repos\PatternBridge\PatternBridge\obj\Debug\net6.0\PatternBridge.AssemblyInfo.cs
+D:\Programming\repos\PatternBridge\PatternBridge\obj\Debug\net6.0\PatternBridge.csproj.CoreCompileInputs.cache
+D:\Programming\repos\PatternBridge\PatternBridge\bin\Debug\net6.0\PatternBridge.exe
+D:\Programming\repos\PatternBridge\PatternBridge\bin\Debug\net6.0\PatternBridge.deps.json
+D:\Programming\repos\PatternBridge\PatternBridge\bin\Debug\net6.0\PatternBridge.runtimeconfig.json
+D:\Programming\repos\PatternBridge\PatternBridge\bin\Debug\net6.0\PatternBridge.dll
+D:\Programming\repos\PatternBridge\PatternBridge\bin\Debug\net6.0\PatternBridge.pdb
+D:\Programming\repos\PatternBridge\PatternBridge\obj\Debug\net6.0\PatternBridge.dll
+D:\Programming\repos\PatternBridge\PatternBridge\obj\Debug\net6.0\refint\PatternBridge.dll
+D:\Programming\repos\PatternBridge\PatternBridge\obj\Debug\net6.0\PatternBridge.pdb
+D:\Programming\repos\PatternBridge\PatternBridge\obj\Debug\net6.0\PatternBridge.genruntimeconfig.cache
+D:\Programming\repos\PatternBridge\PatternBridge\obj\Debug\net6.0\ref\PatternBridge.dll
