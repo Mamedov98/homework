@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\repos\\CosackFactoryMethod\\CosackFactoryMethod\\CosackFactoryMethod.csproj",
+      "projectUniqueName": "C:\\Users\\AMIN\\Desktop\\CosackFactoryMethod\\CosackFactoryMethod\\CosackFactoryMethod.csproj",
       "projectName": "CosackFactoryMethod",
-      "projectPath": "D:\\Programming\\repos\\CosackFactoryMethod\\CosackFactoryMethod\\CosackFactoryMethod.csproj",
+      "projectPath": "C:\\Users\\AMIN\\Desktop\\CosackFactoryMethod\\CosackFactoryMethod\\CosackFactoryMethod.csproj",
       "packagesPath": "C:\\Users\\AMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\repos\\CosackFactoryMethod\\CosackFactoryMethod\\obj\\",
+      "outputPath": "C:\\Users\\AMIN\\Desktop\\CosackFactoryMethod\\CosackFactoryMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
