@@ -1,0 +1,15 @@
+D:\Programming\repos\PatternAdapter\PatternAdapter\bin\Debug\net6.0\PatternAdapter.exe
+D:\Programming\repos\PatternAdapter\PatternAdapter\bin\Debug\net6.0\PatternAdapter.deps.json
+D:\Programming\repos\PatternAdapter\PatternAdapter\bin\Debug\net6.0\PatternAdapter.runtimeconfig.json
+D:\Programming\repos\PatternAdapter\PatternAdapter\bin\Debug\net6.0\PatternAdapter.dll
+D:\Programming\repos\PatternAdapter\PatternAdapter\bin\Debug\net6.0\PatternAdapter.pdb
+D:\Programming\repos\PatternAdapter\PatternAdapter\obj\Debug\net6.0\PatternAdapter.csproj.AssemblyReference.cache
+D:\Programming\repos\PatternAdapter\PatternAdapter\obj\Debug\net6.0\PatternAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\repos\PatternAdapter\PatternAdapter\obj\Debug\net6.0\PatternAdapter.AssemblyInfoInputs.cache
+D:\Programming\repos\PatternAdapter\PatternAdapter\obj\Debug\net6.0\PatternAdapter.AssemblyInfo.cs
+D:\Programming\repos\PatternAdapter\PatternAdapter\obj\Debug\net6.0\PatternAdapter.csproj.CoreCompileInputs.cache
+D:\Programming\repos\PatternAdapter\PatternAdapter\obj\Debug\net6.0\PatternAdapter.dll
+D:\Programming\repos\PatternAdapter\PatternAdapter\obj\Debug\net6.0\refint\PatternAdapter.dll
+D:\Programming\repos\PatternAdapter\PatternAdapter\obj\Debug\net6.0\PatternAdapter.pdb
+D:\Programming\repos\PatternAdapter\PatternAdapter\obj\Debug\net6.0\PatternAdapter.genruntimeconfig.cache
+D:\Programming\repos\PatternAdapter\PatternAdapter\obj\Debug\net6.0\ref\PatternAdapter.dll
